@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/training-app/static/css/main.e5f2b522.css",
+    "main.js": "/training-app/static/js/main.af8193a1.js",
+    "static/js/952.dfe2349f.chunk.js": "/training-app/static/js/952.dfe2349f.chunk.js",
+    "static/js/488.53960171.chunk.js": "/training-app/static/js/488.53960171.chunk.js",
+    "static/media/4931936.jpg": "/training-app/static/media/4931936.091cda0433d501964d7b.jpg",
+    "service-worker.js": "/training-app/service-worker.js",
+    "index.html": "/training-app/index.html",
+    "main.e5f2b522.css.map": "/training-app/static/css/main.e5f2b522.css.map",
+    "main.af8193a1.js.map": "/training-app/static/js/main.af8193a1.js.map",
+    "952.dfe2349f.chunk.js.map": "/training-app/static/js/952.dfe2349f.chunk.js.map",
+    "488.53960171.chunk.js.map": "/training-app/static/js/488.53960171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5f2b522.css",
+    "static/js/main.af8193a1.js"
+  ]
+}
