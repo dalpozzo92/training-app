@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "/training-app/",
   "id": "/training-app/",
   "display": "standalone",
   "theme_color": "#000000",
