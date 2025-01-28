@@ -3,7 +3,7 @@
   "name": "Training App",
   "icons": [
       {
-          "src": "logo-crew-512px.png",
+          "src": "logo-crew-192px.png",
           "sizes": "192x192",
           "type": "image/png"
           },
