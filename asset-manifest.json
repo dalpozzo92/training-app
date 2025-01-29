@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/training-app/static/css/main.e5f2b522.css",
-    "main.js": "/training-app/static/js/main.41f4d718.js",
-    "static/js/952.dfe2349f.chunk.js": "/training-app/static/js/952.dfe2349f.chunk.js",
-    "static/js/488.53960171.chunk.js": "/training-app/static/js/488.53960171.chunk.js",
-    "static/media/4931936.jpg": "/training-app/static/media/4931936.091cda0433d501964d7b.jpg",
-    "service-worker.js": "/training-app/service-worker.js",
-    "index.html": "/training-app/index.html",
-    "main.e5f2b522.css.map": "/training-app/static/css/main.e5f2b522.css.map",
-    "main.41f4d718.js.map": "/training-app/static/js/main.41f4d718.js.map",
-    "952.dfe2349f.chunk.js.map": "/training-app/static/js/952.dfe2349f.chunk.js.map",
-    "488.53960171.chunk.js.map": "/training-app/static/js/488.53960171.chunk.js.map"
+    "main.css": "/training-app/training-app/static/css/main.7e0b6989.css",
+    "main.js": "/training-app/training-app/static/js/main.44cf1e62.js",
+    "static/js/952.dfe2349f.chunk.js": "/training-app/training-app/static/js/952.dfe2349f.chunk.js",
+    "static/js/488.53960171.chunk.js": "/training-app/training-app/static/js/488.53960171.chunk.js",
+    "static/media/4931936.jpg": "/training-app/training-app/static/media/4931936.091cda0433d501964d7b.jpg",
+    "service-worker.js": "/training-app/training-app/service-worker.js",
+    "index.html": "/training-app/training-app/index.html",
+    "main.7e0b6989.css.map": "/training-app/training-app/static/css/main.7e0b6989.css.map",
+    "main.44cf1e62.js.map": "/training-app/training-app/static/js/main.44cf1e62.js.map",
+    "952.dfe2349f.chunk.js.map": "/training-app/training-app/static/js/952.dfe2349f.chunk.js.map",
+    "488.53960171.chunk.js.map": "/training-app/training-app/static/js/488.53960171.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5f2b522.css",
-    "static/js/main.41f4d718.js"
+    "static/css/main.7e0b6989.css",
+    "static/js/main.44cf1e62.js"
   ]
 }
